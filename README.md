@@ -1,7 +1,7 @@
 # goit-node-hw-01
 
 
-folder of screenshots: https://monosnap.com/list/64b5517ab93748fd28f9d4b4
+screenshots of actions:
 
 https://monosnap.com/file/am0o2JkqNWjG51dXDgwh4yRS1nO5y7 "list"
 
